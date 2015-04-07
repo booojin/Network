@@ -1,0 +1,7 @@
+Exception: STATUS_ACCESS_VIOLATION at eip=004016C4
+eax=00000018 ebx=200482C8 ecx=00000003 edx=611DCC10 esi=20048328 edi=FFFFFFFE
+ebp=7FF9CE08 esp=7FF9CC80 program=C:\cygwin\home\choi\server.exe, pid 84540, thread unknown (0x119C8)
+cs=001B ds=0023 es=0023 fs=003B gs=0000 ss=0023
+Stack trace:
+Frame     Function  Args
+End of stack trace
